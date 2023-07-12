@@ -15,21 +15,21 @@
   
 **front-End**
 <p align="left">
-  <img title="Angular" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/angular.png" width="50px">
-  <img title="Typescript" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/typescript.png" width="50px">
-  <img title="React" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/react.png" width="50px">
+  <img title="Angular" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/angular.png" width="70px">
+  <img title="Typescript" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/typescript.png" width="70px">
+  <img title="React" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/react.png" width="70px">
 </p>
 
 **back-End**
 <p align="left">
-  <img title="Node" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/node.png" width="50px">
-  <img title="Python" src="https://github.com/gabibits/gabibits/blob/main/images/python.png" width="50px">
-  <img title="Java" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/java.png" width="50px">
+  <img title="Node" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/node.png" width="70px">
+  <img title="Python" src="https://github.com/gabibits/gabibits/blob/main/images/python.png" width="70px">
+  <img title="Java" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/java.png" width="70px">
 </p>
 
 **other**
 <p align="left">
-  <img title="Git" src="https://github.com/gabibits/gabibits/blob/main/images/git.png" width="50px">
-  <img title="Figma" src="https://github.com/gabibits/gabibits/blob/main/images/figma.png" width="50px">
+  <img title="Git" src="https://github.com/gabibits/gabibits/blob/main/images/git.png" width="70px">
+  <img title="Figma" src="https://github.com/gabibits/gabibits/blob/main/images/figma.png" width="70px">
 </p>
 </samp>
