@@ -1,16 +1,34 @@
-### Hi there 👋
+<h3>
+  <samp>&gt; hey there! i'm gabi</samp>
+</h3>
+<samp>
+  - fullstack dev (kinda)<br/>
+  - computer science undergraduate<br/>
+  - i'm interest in<strong> web dev, acessibility and note-taking tools</strong></li> <br/>
+<br/>
+<br/>
 
-<!--
-**gabibits/gabibits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details> 
+<summary><samp>&#9776;</samp> tech stack </i> </summary>
+<br/>
+  
+**front-End**
+<p align="left">
+  <img title="Angular" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/angular.png" width="50px">
+  <img title="Typescript" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/typescript.png" width="50px">
+  <img title="React" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/react.png" width="50px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**back-End**
+<p align="left">
+  <img title="Node" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/node.png" width="50px">
+  <img title="Python" src="https://github.com/gabibits/gabibits/blob/main/images/python.png" width="50px">
+  <img title="Java" src="https://raw.githubusercontent.com/gabibits/gabibits/main/images/java.png" width="50px">
+</p>
+
+**other**
+<p align="left">
+  <img title="Figma" src="https://github.com/gabibits/gabibits/blob/main/images/figma.png" width="50px">
+</p>
+</samp>
