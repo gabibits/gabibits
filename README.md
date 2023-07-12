@@ -29,6 +29,7 @@
 
 **other**
 <p align="left">
+  <img title="Git" src="https://github.com/gabibits/gabibits/blob/main/images/git.png" width="50px">
   <img title="Figma" src="https://github.com/gabibits/gabibits/blob/main/images/figma.png" width="50px">
 </p>
 </samp>
